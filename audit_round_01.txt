@@ -1,0 +1,13 @@
+AUDIT TEST ROUND 01
+
+System:
+Calculator
+
+Functions:
+- Add two numbers
+
+Rules:
+- Result must be correct
+
+Question:
+Is this specification READY?
